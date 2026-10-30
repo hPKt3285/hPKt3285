@@ -15,4 +15,9 @@ Learning software development and using GitHub to keep notes and build small pro
 
 ## Currently learning
 
-`Git` `GitHub` `Markdown` `CI/CD basics`
+`Git` `GitHub` `Markdown` `GitHub Pages` `CI/CD basics`
+
+## Links
+
+- Personal site: <https://hPKt3285.github.io>
+- Repositories: <https://github.com/hPKt3285?tab=repositories>
