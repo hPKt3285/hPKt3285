@@ -8,6 +8,12 @@ Learning software development and using GitHub to keep notes and build small pro
 - Organizing study notes and small practice projects
 - Exploring GitHub Actions and GitHub Pages
 
+## This week
+
+- Keeping a small daily commit habit in my own repositories
+- Refining this profile README and my personal site
+- Writing short notes about what I learn each day
+
 ## What this account is for
 
 - Personal practice code and learning records
