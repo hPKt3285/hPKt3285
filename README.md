@@ -10,9 +10,9 @@ Learning software development and using GitHub to keep notes and build small pro
 
 ## This week
 
-- Keeping a small daily commit habit in my own repositories
-- Refining this profile README and my personal site
-- Writing short notes about what I learn each day
+- Tidying the README checks in `hello-github` into one shared script
+- Writing up what I run into as short notes on my personal site
+- Reading Actions logs instead of just waiting for a green check
 
 ## What this account is for
 
